@@ -1,0 +1,29 @@
+{
+  "name": "rn-animated-text-counter",
+  "version": "1.0.5",
+  "description": "A React Native component to animate numbers with a slot machine effect.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.1",
+    "@types/react-native": "^0.63.3"
+  },
+  "keywords": [
+    "react-native",
+    "animation",
+    "text",
+    "counter"
+  ],
+  "author": "Mahesh Maharana",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
