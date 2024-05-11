@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-text-counter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A React Native component to animate numbers with a slot machine effect.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -15,6 +15,14 @@
     "@types/react": "^17.0.1",
     "@types/react-native": "^0.63.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahecode/rn-animated-text-counter"
+  },
+  "bugs": {
+    "url": "https://github.com/mahecode/rn-animated-text-counter"
+  },
+  "homepage": "https://github.com/yourusername/your-repository#readme",
   "keywords": [
     "react-native",
     "animation",
