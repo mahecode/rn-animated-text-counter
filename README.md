@@ -69,7 +69,6 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 ## License
 
 Animated Text Counter is [MIT licensed](./LICENSE).
-```
 
 ## Demo
 
