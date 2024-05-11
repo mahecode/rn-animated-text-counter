@@ -75,6 +75,5 @@ Animated Text Counter is [MIT licensed](./LICENSE).
 
 Watch this quick demo to see the Animated Text Counter in action:
 
-<video src="assets/demo.mp4" controls width="720" height="480">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/mahecode/rn-animated-text-counter/demo.mp4
+
