@@ -70,10 +70,11 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 
 Animated Text Counter is [MIT licensed](./LICENSE).
 
-## Demo
+## Demo Video
 
-Watch this quick demo to see the Animated Text Counter in action:
+Click the image below to watch the demo video:
 
-[Watch the demo video here](assets/demo.mp4)
+[![Watch the demo]](https://github.com/mahecode/rn-animated-text-counter/raw/main/assets/demo.mp4)
+
 
 
