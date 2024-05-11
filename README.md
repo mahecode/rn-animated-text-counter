@@ -71,11 +71,10 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 Animated Text Counter is [MIT licensed](./LICENSE).
 ```
 
-### Additional Notes
+## Demo
 
-- **Customization**: You may want to add or remove sections based on what your library does and what configurations or props it supports.
-- **Examples**: Consider adding more complex examples if your component supports more advanced features.
-- **Screenshots**: Adding screenshots or a GIF to show the animation effect in action can greatly enhance your README, making it more attractive to potential users.
-- **Advanced Configurations**: If there are advanced configurations or props, consider expanding the documentation to include these details.
+Watch this quick demo to see the Animated Text Counter in action:
 
-This template should help you get started with a professional-looking README for your NPM package. Adjust the details as necessary to match the specifics of your library and its usage.
+<video src="assets/demo.mov" controls width="720" height="480">
+  Your browser does not support the video tag.
+</video>
