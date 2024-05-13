@@ -1,6 +1,3 @@
-### README.md Template for Animated Text Counter
-
-```markdown
 # Animated Text Counter
 
 Animated Text Counter is a React Native component that animates numbers with a slot machine effect, suitable for creating visually appealing numeric transitions. This library is easy to integrate and customizable to fit the styling needs of your mobile application.
